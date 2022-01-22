@@ -1,3 +1,6 @@
+# What does this code do : 
+# Subtraction of 2 Matrices with any given dimensions and returning a matrix. 
+
 import ast
 A = input()
 A = ast.literal_eval(A)
